@@ -11,6 +11,6 @@
       console.log(`number ${myText.toFixed(1)}`);
     }
   }
-  greeting('asas');
+  greeting('Pablo');
   greeting(123.3254325235);
 })();
